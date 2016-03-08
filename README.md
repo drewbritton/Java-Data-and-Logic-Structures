@@ -1,7 +1,7 @@
-# Java-1-2
-CPW 142 &amp; 143 (Java OOP)
-Summer 2015 & Fall 2015
+# Data & Logic Structures in Java
+CPW 245
+Winter quarter 2016
 
-More Java programs done in school.
+Here you can see all programming assignments and exercises from the CPW 245 course.
 
-:]
+Enjoy!
